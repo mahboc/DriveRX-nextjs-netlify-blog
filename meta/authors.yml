@@ -1,7 +1,6 @@
 authors:
-  - slug: John
-    name: John Markham
-    introduction: DriveRX Member and Contributor
-  - slug: Coach Joey
-    name: Joey Powell
-    introduction: DriveRX founder, Owner of CrossFit Prescott
+  - slug: wutali
+    name: Takahiro Fujiwara
+    introduction:
+      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+      Python / Golang / React
