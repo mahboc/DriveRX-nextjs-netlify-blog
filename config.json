@@ -1,19 +1,14 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://driverxfitness.com",
+  "site_title": "DriveRX Fitness Blog",
+  "site_description": "DriveRX Fitness is a full functional fitness gym",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Crossfit",
+    "Crossfit Prescott",
+    "Functional Fitness",
+    "Prescribed Fitness"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@cctjoey1",
+  "github_account": "@mahboc"
 }
