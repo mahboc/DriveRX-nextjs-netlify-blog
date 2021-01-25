@@ -13,7 +13,7 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, We're DriveRX Fitness<span className="fancy">.</span>
+            Hi, We're DriveRX | Prescribed Fitness<span className="fancy">.</span>
           </h1>
           <SocialList />
         </div>
