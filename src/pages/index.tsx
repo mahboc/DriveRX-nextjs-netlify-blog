@@ -3,7 +3,7 @@ import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
-import DriveRxLogo from "../assets/DriveX-Logo-Horizontal.svg";
+import DriveRxLogo from "../assets/DriveX-Logo-stack.svg";
 
 export default function Index() {
   return (
@@ -13,8 +13,7 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div>
-        <DriveRxLogo width={"175%"} />
-        <hr width={"175%"} />
+        <DriveRxLogo width={"100%"} />
         <h2><a href={"mailto:joey@driverxfitness.com?subject=DriveRX%20Fitness%20Inquiry"}>Contact us</a></h2>
         </div>
       </div>
@@ -35,7 +34,7 @@ export default function Index() {
           font-size: 1.75rem;
           font-weight: 400;
           line-height: 1.25;
-
+          text-align: center;
         }
         .fancy {
           color: #15847d;
