@@ -3,7 +3,6 @@ import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
-import DriveRxLogo from "../assets/DriveX-Logo-Horizontal.svg";
 
 export default function Index() {
   return (
@@ -13,7 +12,7 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div>
-        <DriveRxLogo height={192} fill={"#222"} />
+          <h2>contact</h2>
         </div>
       </div>
       <style jsx>{`

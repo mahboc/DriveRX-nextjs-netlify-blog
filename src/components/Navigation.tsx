@@ -2,6 +2,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import Burger from "./Burger";
 import { useState } from "react";
+import Logo from "../assets/DriveX-Rx-Yellow.svg";
 
 export default function Navigation() {
   const router = useRouter();
@@ -9,11 +10,14 @@ export default function Navigation() {
   return (
     <>
       <Burger active={active} onClick={() => setActive(!active)} />
-      <div className={"container " + (active ? "active" : "")}>
+{/*      <div className={"container " + (active ? "active" : "")}>
         <ul>
+        <li>
+            <Logo height={64} fill={"#222"} />
+        </li>
           <li>
             <Link href="/">
-              <a className={router.pathname === "/" ? "active" : null}>about</a>
+              <a className={router.pathname === "/" ? "active" : null}>DriveRX</a>
             </Link>
           </li>
           <li>
@@ -25,6 +29,11 @@ export default function Navigation() {
               >
                 blog
               </a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/contact">
+              <a className={router.pathname === "/contact" ? "active" : null}>contact</a>
             </Link>
           </li>
         </ul>
@@ -86,7 +95,7 @@ export default function Navigation() {
             }
           `}
         </style>
-      </div>
+      </div> */}
     </>
   );
 }
