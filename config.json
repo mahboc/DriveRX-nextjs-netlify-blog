@@ -2,7 +2,9 @@
   "base_url": "https://driverxfitness.com",
   "site_title": "DriveRX | Prescribed Fitness",
   "site_description": "DriveRX is the culmination of decades of experience to we know one size does not fit all.  Our gym solves that.",
-  "site_keywords": [],
+  "site_keywords": [
+    "Fitness"
+  ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
   "github_account": "mahboc"
