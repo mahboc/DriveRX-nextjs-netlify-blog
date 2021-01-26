@@ -3,3 +3,11 @@ tags:
     name: fitness
   - slug: crossfit
     name: crossfit
+  - slug: nutrition
+    name: nutrition
+  - slug: kettlebell
+    name: kettlebell
+  - slug: dumbell
+    name: dumbell
+  - slug: prescribed-fitness
+    name: Prescribed Fitness
