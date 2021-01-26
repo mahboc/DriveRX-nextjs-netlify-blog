@@ -13,7 +13,9 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div>
-        <DriveRxLogo height={192} fill={"#222"} />
+        <DriveRxLogo width={"175%"} />
+        <hr width={"175%"} />
+        <h2><a href={"mailto:joey@driverxfitness.com?subject=DriveRX%20Fitness%20Inquiry"}>Contact us</a></h2>
         </div>
       </div>
       <style jsx>{`
@@ -33,6 +35,7 @@ export default function Index() {
           font-size: 1.75rem;
           font-weight: 400;
           line-height: 1.25;
+
         }
         .fancy {
           color: #15847d;
