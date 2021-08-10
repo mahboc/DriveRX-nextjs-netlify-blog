@@ -13,8 +13,8 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div>
-        <DriveRxLogo width={"100%"} />
-        <h2><a href={"mailto:joey@driverxfitness.com?subject=DriveRX%20Fitness%20Inquiry"}>Contact us</a></h2>
+        <DriveRxLogo width={"50%"} />
+        <h2><a href={"mailto:train@lorimarkham.com?subject=Kids%20program%20Inquiry"}>Contact us</a></h2>
         </div>
       </div>
       <style jsx>{`
