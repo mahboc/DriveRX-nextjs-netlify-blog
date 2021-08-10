@@ -3,7 +3,7 @@ import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
-import DriveRxLogo from "../assets/DriveX-Logo-stack.svg";
+import DriveRxLogo from "../assets/DriveX-Logo-Horizontal.svg";
 
 export default function Index() {
   return (
