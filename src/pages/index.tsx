@@ -15,7 +15,7 @@ export default function Index() {
         <div>
         <DriveRxLogo width={"50%"} />
         <h2><a href={"mailto:train@lorimarkham.com?subject=Kids%20program%20Inquiry"}>Contact us</a></h2>
-        <Redirect push to="https://share.hsforms.com/1NVOBqESzR---i9q56RjpeQbyfra" />
+        <Link href="https://share.hsforms.com/1NVOBqESzR---i9q56RjpeQbyfra" /><a>Signup</a></Link>
         </div>
       </div>
       <style jsx>{`
