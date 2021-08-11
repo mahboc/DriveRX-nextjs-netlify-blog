@@ -15,10 +15,10 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div>
-          <h2><KidsDriveRxBanner width={"100%"} /></h2>
-          <h2><a href={"mailto:train@lorimarkham.com?subject=Kids%20program%20Inquiry"}>Contact us</a></h2>
-          <h2><Link href="https://share.hsforms.com/1NVOBqESzR---i9q56RjpeQbyfra"><a>Signup</a></Link></h2>
-          <h2><DriveRxLogo width={"100%"} /></h2>
+          <h2><KidsDriveRxBanner width={"75%"} /></h2>
+          <h2><a href={"mailto:train@lorimarkham.com?subject=Kids%20program%20Inquiry"}>Contact Coach Lori</a></h2>
+          <h2><Link href="https://share.hsforms.com/1NVOBqESzR---i9q56RjpeQbyfra"><a>Signup for the Kids Program</a></Link></h2>
+          <h2><DriveRxLogo width={"75%"} /></h2>
         </div>
       </div>
       <style jsx>{`
