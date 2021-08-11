@@ -13,7 +13,7 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div>
-        <DriveRxLogo width={"50%"} class="center"/>
+        <DriveRxLogo width={"50%"} />
         <h2><a href={"mailto:train@lorimarkham.com?subject=Kids%20program%20Inquiry"}>Contact us</a></h2>
         <Redirect push to="https://share.hsforms.com/1NVOBqESzR---i9q56RjpeQbyfra" />
         </div>
