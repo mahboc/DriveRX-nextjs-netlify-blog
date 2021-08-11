@@ -4,6 +4,7 @@ import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
 import DriveRxLogo from "../assets/DriveX-Logo-Horizontal.svg";
+import Link from "next/link";
 
 export default function Index() {
   return (
