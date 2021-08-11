@@ -4,7 +4,6 @@ import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
 import DriveRxLogo from "../assets/DriveX-Logo-Horizontal.svg";
-import Link from 'next/link';
 
 export default function Index() {
   return (
@@ -16,7 +15,7 @@ export default function Index() {
         <div>
         <DriveRxLogo width={"50%"} />
         <h2><a href={"mailto:train@lorimarkham.com?subject=Kids%20program%20Inquiry"}>Contact us</a></h2>
-        <Link href="https://share.hsforms.com/1NVOBqESzR---i9q56RjpeQbyfra" /><a>Signup</a></Link>
+        <Link href="https://share.hsforms.com/1NVOBqESzR---i9q56RjpeQbyfra"><a>Signup</a></Link>
         </div>
       </div>
       <style jsx>{`
