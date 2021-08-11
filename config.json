@@ -2,7 +2,7 @@
   "base_url": "https://kds.driverxfitness.com",
   "site_title": "DriveRX | Prescribed Fitness | Youth Programs",
   "site_description": "BrandX Method and DriveRX is the culmination of decades of experience building movement based youth programming lifelong health for children",
-  "site_keywords": ["BrandX", "DriveRX", "CrossFit", "Youth", "Fitness", "Functional Fitness"],
+  "site_keywords": [BrandX, DriveRX, CrossFit, Youth, Fitness, Functional Fitness],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
   "github_account": "mahboc"
