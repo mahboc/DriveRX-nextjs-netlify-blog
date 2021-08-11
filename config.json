@@ -1,8 +1,8 @@
 {
-  "base_url": "https://driverxfitness.com",
-  "site_title": "DriveRX | Prescribed Fitness",
-  "site_description": "DriveRX is the culmination of decades of experience to we know one size does not fit all.  Our gym solves that.",
-  "site_keywords": [],
+  "base_url": "https://kds.driverxfitness.com",
+  "site_title": "DriveRX | Prescribed Fitness | Youth Programs",
+  "site_description": "BrandX Method and DriveRX is the culmination of decades of experience building movement based youth programming lifelong health for children",
+  "site_keywords": ["BrandX", "DriveRX", "CrossFit", "Youth", "Fitness", "Functional Fitness"],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
   "github_account": "mahboc"
