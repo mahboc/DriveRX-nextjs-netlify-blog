@@ -4,7 +4,7 @@ import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
 import DriveRxLogo from "../assets/DriveX-Logo-Horizontal.svg";
-import KidsDriveRxBanner from "../assets/CFP Kids Program FB Post.svg";
+import KidsDriveRxBanner from "../assets/KidsDriveRXBanner.png";
 import Link from "next/link";
 
 export default function Index() {
