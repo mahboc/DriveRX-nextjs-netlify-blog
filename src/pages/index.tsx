@@ -4,7 +4,7 @@ import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import { SocialList } from "../components/SocialList";
 import DriveRxLogo from "../assets/DriveX-Logo-Horizontal.svg";
-import KidsDriveRxBanner from "../assets/KidsDriveRXBanner.png";
+import KidsDriveRxBannerTop from "../assets/KidsDriveRxBannerTop.svg";
 
 export default function Index() {
   return (
@@ -14,10 +14,10 @@ export default function Index() {
       <TwitterCardMeta url={"/"} />
       <div className="container">
         <div>
-          <h2><KidsDriveRxBanner width={"75%"} /></h2>
+          <h1><KidsDriveRxBannerTop width={"50%"} /></h1>
           <h2><a href={"mailto:train@lorimarkham.com?subject=Kids%20program%20Inquiry"}>Contact Coach Lori</a></h2>
-          <h2><Link href="https://share.hsforms.com/1NVOBqESzR---i9q56RjpeQbyfra"><a>Signup for the Kids Program</a></Link></h2>
-          <h2><DriveRxLogo width={"75%"} /></h2>
+          <h2><a href="https://share.hsforms.com/1NVOBqESzR---i9q56RjpeQbyfra">Signup for the Kids Program</a></h2>
+          <h2><DriveRxLogo width={"25%"} /></h2>
         </div>
       </div>
       <style jsx>{`
@@ -25,13 +25,14 @@ export default function Index() {
           display: flex;
           align-items: center;
           justify-content: center;
-          flex: 1 1 auto;
-          padding: 0 1.5rem;
+          flex: 0 0 auto;
+          padding: 0 0rem;
         }
         h1 {
           font-size: 2.5rem;
           margin: 0;
           font-weight: 500;
+          text-align: center;
         }
         h2 {
           font-size: 1.75rem;
