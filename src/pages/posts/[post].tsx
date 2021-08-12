@@ -13,6 +13,7 @@ import InstagramEmbed from "react-instagram-embed";
 import YouTube from "react-youtube";
 import { TwitterTweetEmbed } from "react-twitter-embed";
 
+{/*
 export type Props = {
   title: string;
   dateString: string;
@@ -81,4 +82,4 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     },
   };
 };
-
+*/}
